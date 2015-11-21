@@ -1,5 +1,5 @@
 name: TutorialMode
-main: ifteam\TutorialMode\TutorialMode
+main: ifteam\TutorialMode\tutorialMode
 version: 0.2-Alpha
 author: ifteam
 api:
